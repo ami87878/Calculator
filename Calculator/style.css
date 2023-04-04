@@ -1,0 +1,277 @@
+
+
+
+.container{
+
+    position: relative;
+
+
+}
+
+.safemeshki{
+background: rgb(40, 56, 76);
+width: 1022px;
+height: 510px;
+position: relative;
+border-radius: 15px;
+position: absolute;
+left: 9rem;
+top:4.2rem;
+-webkit-box-shadow: 14px 5px 37px 11px rgba(0,0,0,0.97); 
+box-shadow: 14px 5px 37px 11px rgba(0,0,0,0.97);
+
+}
+
+.safesabz{
+width: 542px;
+height: 143px;
+
+background: rgb(61, 111, 68);
+
+
+position: absolute;
+
+top: 44px;
+
+left: 44px;
+border-radius: 6px;
+text-align: center;
+font-size: 4.5rem;
+padding-top: 1rem;
+color: white;
+display: flex;
+justify-content: center;
+align-items:center;
+
+
+}
+
+.amaliat{
+
+width: 105px;
+height: 105px;
+
+background: rgb(60, 84, 109);
+position: absolute;
+left: 44px;
+top: 220px;
+border: 0;
+border-radius: 6px;
+text-transform: uppercase;
+
+font-size:4rem;
+ color: white;
+ text-align: center;
+cursor: pointer;
+
+}
+.amaliat:hover{
+
+width: 105px;
+height: 105px;
+
+background: rgb(98, 164, 235);
+position: absolute;
+left: 44px;
+top: 220px;
+border: 0;
+border-radius: 6px;
+text-transform: uppercase;
+
+/*font-size:4rem;*/
+ color: white;
+ text-align: center;
+cursor: pointer;
+
+}
+
+
+
+.mosavi{
+
+    height: 247px;
+    width: 123px;
+    position: absolute;
+    top: 219px;
+     left: 345px;
+     background: rgb(237, 138, 25);
+
+     border: 0;
+     border-radius: 6px;
+     font-size:4rem;
+     color: white;
+     text-align: center;
+     cursor: pointer;
+
+
+}
+.mosavi:hover{
+
+  height: 247px;
+  width: 123px;
+  position: absolute;
+  top: 219px;
+   left: 345px;
+   background: rgb(210, 230, 34);
+
+   border: 0;
+   border-radius: 6px;
+   font-size:4rem;
+   color: white;
+   text-align: center;
+   cursor: pointer;
+
+
+}
+button:nth-child(1){
+
+position: absolute;
+margin: 18px 44px 18px 44px;
+
+
+
+}
+button:nth-child(2){
+
+    
+        position: absolute;
+        margin: 146px 0px 0px 0px;
+    
+    
+    }
+    button:nth-child(3){
+
+        position: absolute;
+        margin: 0px 0px 0px 160px;
+        
+        
+        
+        }
+
+  button:nth-child(4){
+
+            position: absolute;
+            margin: 0px 0px 0px 0px;
+            
+            
+            
+            }
+      button:nth-child(5){
+
+                position: absolute;
+                margin: 146px 0px 0px 160px;
+                
+                
+                
+             }
+     button:nth-child(6){
+
+              position: absolute;
+              margin: -137px 0px 0px 524px;
+                    
+                    
+                    
+               }
+      button:nth-child(7){
+
+               position: absolute;
+               margin: 146px 0px 0px 300px;
+                        
+                        
+                        
+                }
+    button:nth-child(8){
+
+                    position: absolute;
+                   margin: 146px 0px 0px 440px;
+                            
+                            
+                            
+                     }
+
+ button:nth-child(9){
+
+            position: absolute;
+          margin: 0px 0px 0px 440px;
+                                
+                                
+                                
+                     }
+
+ button:nth-child(10){
+
+               position: absolute;
+               margin: 0px 0px 0px 300px;
+                                    
+                                    
+                                    
+                  }
+  button:nth-child(11){
+
+     position: absolute;
+      margin: 146px 0px 0px 570px;
+                                        
+                                        
+                                        
+                       }
+
+ button:nth-child(12){
+            position: absolute;
+            margin: 0px 0px 0px 570px;
+                                            
+                                            
+                                            
+             }
+ button:nth-child(13){
+
+    position: absolute;
+     margin: 146px 0px 0px 700px;
+                                                
+                                                
+                                                
+      }
+      button:nth-child(14){
+
+        position: absolute;
+         margin: 0px 0px 0px 700px;
+                                                    
+                                                    
+                                                    
+          }
+          button:nth-child(15){
+
+            position: absolute;
+             margin: 146px 0px 0px 830px;
+                                                        
+                                                        
+                                                        
+              }
+
+              button:nth-child(16){
+
+                position: absolute;
+                margin: -140px 0px 0px 700px;
+                                                            
+                font-size:1.4rem;                             
+                                                            
+                  }
+            
+                  button:nth-child(17){
+
+
+                    position: absolute;
+                    margin: -140px 0px 0px 570px;
+                                                                
+                     font-size:3.5rem;      
+
+
+                  }
+  
+                  #check{
+
+                    color: green;
+
+                    font-size: 4rem;
+
+
+                  }
